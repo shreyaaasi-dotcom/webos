@@ -1,2 +1,0 @@
-# webos
-My own webos 
